@@ -23,7 +23,7 @@ with DAG(
     dag_id="orders_etl_dag",
     description="this dag orchestrats 3 tasks to extract data from a folder, clean it, and load cleaned data to folder",
     default_args=default_args,
-    schedule="0 2 * * *",
+    schedule="* * * * *",
     catchup=False,
     max_active_runs=1,
     tags=["pyspark", "etl", "data-engineering"]
@@ -56,3 +56,4 @@ with DAG(
         >> load
     )
 
+    
