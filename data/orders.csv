@@ -1,0 +1,16 @@
+order_id,customer_name,address,phone,price,order_date
+1,Ahmed Benali,Casablanca,0612345678,10,2026-03-01
+2,Sara El Amrani,Rabat,0623456789,10,2026-03-02
+3,Youssef Haddad,Marrakech,0634567890,10,2026-03-02
+4,Nadia Karim,Tanger,0645678901,10,2026-03-03
+5,Omar Fassi,Fes,0656789012,10,2026-03-03
+6,Salma Idrissi,Agadir,0667890123,10,2026-03-04
+7,Hamza Alaoui,Oujda,0678901234,10,2026-03-05
+8,Laila Bennis,Meknes,0689012345,10,2026-03-05
+9,Karim Ziani,Kenitra,0690123456,10,2026-03-06
+10,Imane Tazi,El Jadida,0611122233,10,2026-03-06
+11,Mehdi Saidi,Beni Mellal,0622233344,10,2026-03-07
+12,Hajar Naciri,Tetouan,0633344455,10,2026-03-07
+13,Adil Chraibi,Safi,0644455566,10,2026-03-08
+14,Asmae Zahra,Khouribga,0655566677,10,2026-03-08
+15,Rachid Lahlou,Errachidia,0666677788,10,2026-03-09
